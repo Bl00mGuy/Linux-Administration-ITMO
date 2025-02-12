@@ -2,7 +2,7 @@
 
 echo "Launching Lab-1:"
 
-for i in {1..30}
+for i in {1..18}
 do
 	echo "Executing task_$i..."
 	bash "./scripts/task_$i.sh"
